@@ -3,3 +3,6 @@
 
 # https://problems.tryapl.org/psets/2013.html?goto=P1_Seems_a_Bit_Odd_To_Me
 P1301d ← {1+2×↕𝕩}
+
+# https://problems.tryapl.org/psets/2013.html?goto=P2_Making_The_Grade
+P1302d ← {100×(+´65≤𝕩)÷≠𝕩}

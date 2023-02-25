@@ -25,7 +25,7 @@ NB. https://problems.tryapl.org/psets/2013.html?goto=P7_Float_Your_Boat
 p1307d =: {{y#~-.y=<.y}}
 p1307t =: (#~-.@(=<.))
 
-NB https://problems.tryapl.org/psets/2013.html?goto=P8_Go_Forth_And_Multiply
+NB. https://problems.tryapl.org/psets/2013.html?goto=P8_Go_Forth_And_Multiply
 p1308d =: {{*/~>:i.y}}
 p1308t =: */~@:>:@i.
 

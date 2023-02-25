@@ -18,3 +18,6 @@ p1306d: {(|/,//x)-&/,//x}
 
 / https://problems.tryapl.org/psets/2013.html?goto=P7_Float_Your_Boat
 p1307d: {x@&~x=_x}
+
+/ https://problems.tryapl.org/psets/2013.html?goto=P8_Go_Forth_And_Multiply
+p1308d: {(1+!x)*/:1+!x}

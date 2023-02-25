@@ -15,3 +15,6 @@ P1306d ← {(⌈´⥊𝕩)-⌊´⥊𝕩}
 
 # https://problems.tryapl.org/psets/2013.html?goto=P7_Float_Your_Boat
 P1307d ← {𝕩/˜𝕩≠⌊𝕩}
+
+# https://problems.tryapl.org/psets/2013.html?goto=P8_Go_Forth_And_Multiply
+P1308d ← {×⌜˜1+↕𝕩}

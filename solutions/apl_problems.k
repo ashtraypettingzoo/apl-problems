@@ -9,3 +9,6 @@ p1302d: {100*(+/~65>x)%#x}
 
 / https://problems.tryapl.org/psets/2013.html?goto=P3_What_Is_In_a_Word
 p1303d: {#(#'" "\x)^0}
+
+/ https://problems.tryapl.org/psets/2013.html?goto=P5_Identity_Crisis
+p1305d: {=x}

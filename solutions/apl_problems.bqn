@@ -6,3 +6,6 @@ P1301d ← {1+2×↕𝕩}
 
 # https://problems.tryapl.org/psets/2013.html?goto=P2_Making_The_Grade
 P1302d ← {100×(+´65≤𝕩)÷≠𝕩}
+
+# https://problems.tryapl.org/psets/2013.html?goto=P5_Identity_Crisis
+P1305d ← {𝕩‿𝕩⥊1∾𝕩⥊0}

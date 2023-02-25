@@ -15,3 +15,6 @@ p1305d: {=x}
 
 / https://problems.tryapl.org/psets/2013.html?goto=P6_Home_On_The_Range
 p1306d: {(|/,//x)-&/,//x}
+
+/ https://problems.tryapl.org/psets/2013.html?goto=P7_Float_Your_Boat
+p1307d: {x@&~x=_x}

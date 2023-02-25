@@ -20,3 +20,7 @@ p1305t =: e.@i.
 NB. https://problems.tryapl.org/psets/2013.html?goto=P6_Home_On_The_Range
 p1306d =: {{(>./,y)-<./,y}}
 p1306t =: (>./-<./)@,
+
+NB. https://problems.tryapl.org/psets/2013.html?goto=P7_Float_Your_Boat
+p1307d =: {{y#~-.y=<.y}}
+p1307t =: (#~-.@(=<.))

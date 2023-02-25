@@ -7,7 +7,7 @@ Solutions to https://problems.tryapl.org/ in APL, J, K, &amp; BQN
 | ---      | :---:              | :---:              | :---:              | :---:              |
 | 2013 #01 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 2013 #02 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 2013 #03 | :x:                | :x:                | :x:                | :x:                |
+| 2013 #03 | :x:                | :heavy_check_mark: | :heavy_check_mark: | :x:                |
 | 2013 #04 | :x:                | :x:                | :x:                | :x:                |
 | 2013 #05 | :x:                | :x:                | :x:                | :x:                |
 | 2013 #06 | :x:                | :x:                | :x:                | :x:                |

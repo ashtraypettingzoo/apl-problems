@@ -8,3 +8,7 @@ p1301t =: >:@+:@i.
 NB. https://problems.tryapl.org/psets/2013.html?goto=P2_Making_The_Grade
 p1302d =: {{100*(+/-.65>y)%#y}}
 p1302t =: 100&*@(+/@:-.@(65&>)%#)
+
+NB. https://problems.tryapl.org/psets/2013.html?goto=P3_What_Is_In_a_Word
+p1303d =: {{#0-.~#;._1' ',y}}
+p1303t =: #@(-.&0)@(#;._1)@(' '&,)

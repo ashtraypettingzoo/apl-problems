@@ -6,3 +6,6 @@ p1301d: {1+2*!x}
 
 / https://problems.tryapl.org/psets/2013.html?goto=P2_Making_The_Grade
 p1302d: {100*(+/~65>x)%#x}
+
+/ https://problems.tryapl.org/psets/2013.html?goto=P3_What_Is_In_a_Word
+p1303d: {#(#'" "\x)^0}

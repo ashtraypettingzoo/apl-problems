@@ -16,3 +16,7 @@ p1303t =: #@(-.&0)@(#;._1)@(' '&,)
 NB. https://problems.tryapl.org/psets/2013.html?goto=P5_Identity_Crisis
 p1305d =: {{e.i.y}}
 p1305t =: e.@i.
+
+NB. https://problems.tryapl.org/psets/2013.html?goto=P6_Home_On_The_Range
+p1306d =: {{(>./,y)-<./,y}}
+p1306t =: (>./-<./)@,

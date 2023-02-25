@@ -12,3 +12,6 @@ p1303d: {#(#'" "\x)^0}
 
 / https://problems.tryapl.org/psets/2013.html?goto=P5_Identity_Crisis
 p1305d: {=x}
+
+/ https://problems.tryapl.org/psets/2013.html?goto=P6_Home_On_The_Range
+p1306d: {(|/,//x)-&/,//x}

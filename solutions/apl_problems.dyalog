@@ -27,4 +27,7 @@ p1310d ← {⍺⌹⍵}
 ⍝ https://problems.tryapl.org/psets/2014.html?goto=P1_It_Is_All_Right
 p1401d ← {(⍵*2)=+/⍺*2}
 
+⍝ https://problems.tryapl.org/psets/2014.html?goto=P3_Tell_a_Fib
+p1403d ← {¯1↓{⍵,+/¯2↑⍵}⍣⍵⊢1}
+
 :EndNamespace

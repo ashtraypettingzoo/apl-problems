@@ -36,3 +36,7 @@ p1310t =: %.
 NB. https://problems.tryapl.org/psets/2014.html?goto=P1_It_Is_All_Right
 p1401d =: {{(*~y)=+/*~x}}
 p1401t =: (=+/)~&:(*~)
+
+NB. https://problems.tryapl.org/psets/2014.html?goto=P3_Tell_a_Fib
+p1403d =: {{}:(,+/@(_2&{.))^:y]1}}
+p1403t =: }:@((,+/@(_2&{.))^:(]`1:))

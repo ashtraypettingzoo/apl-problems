@@ -24,3 +24,6 @@ p1308d: {(1+!x)*/:1+!x}
 
 / https://problems.tryapl.org/psets/2014.html?goto=P1_It_Is_All_Right
 p1401d: {(y*y)=+/x*x}
+
+/ https://problems.tryapl.org/psets/2014.html?goto=P3_Tell_a_Fib
+p1403d: {-1_0N#x{x,+/-2#0,x}/1}

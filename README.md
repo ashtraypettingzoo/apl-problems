@@ -22,7 +22,7 @@ Solutions to https://problems.tryapl.org/ in APL, J, K, &amp; BQN
 | ---      | :---:              | :---:              | :---:              | :---:              |
 | 2014 #01 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 2014 #02 | :x:                | :x:                | :x:                | :x:                |
-| 2014 #03 | :x:                | :x:                | :x:                | :x:                |
+| 2014 #03 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 2014 #04 | :x:                | :x:                | :x:                | :x:                |
 | 2014 #05 | :x:                | :x:                | :x:                | :x:                |
 | 2014 #06 | :x:                | :x:                | :x:                | :x:                |

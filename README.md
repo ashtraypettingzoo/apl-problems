@@ -28,7 +28,7 @@ Solutions to https://problems.tryapl.org/ in APL, J, K, &amp; BQN
 | 2014 #06 | :x:                | :x:                | :x:                | :x:                |
 | 2014 #07 | :x:                | :x:                | :x:                | :x:                |
 | 2014 #08 | :x:                | :x:                | :x:                | :x:                |
-| 2014 #09 | :x:                | :x:                | :x:                | :x:                |
+| 2014 #09 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 2014 #10 | :x:                | :x:                | :x:                | :x:                |
 
 ### 2015

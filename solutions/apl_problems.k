@@ -1,6 +1,8 @@
 / ngn/k: https://codeberg.org/ngn/k
 / online: https://ngn.codeberg.page/k/
 
+pi: 3.14159265359
+
 / https://problems.tryapl.org/psets/2013.html?goto=P1_Seems_a_Bit_Odd_To_Me
 p1301d: {1+2*!x}
 
@@ -27,3 +29,6 @@ p1401d: {(y*y)=+/x*x}
 
 / https://problems.tryapl.org/psets/2014.html?goto=P3_Tell_a_Fib
 p1403d: {-1_0N#x{x,+/-2#0,x}/1}
+
+/ https://problems.tryapl.org/psets/2014.html?goto=P9_Going_Ballistic
+p1409d: {((y*y)*`sin pi*x%90)%9.8}

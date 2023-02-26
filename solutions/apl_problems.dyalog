@@ -30,6 +30,9 @@ p1401d ← {(⍵*2)=+/⍺*2}
 ⍝ https://problems.tryapl.org/psets/2014.html?goto=P3_Tell_a_Fib
 p1403d ← {¯1↓{⍵,+/¯2↑⍵}⍣⍵⊢1}
 
+⍝ https://problems.tryapl.org/psets/2014.html?goto=P8_Go_The_Distance
+p1408d ← {.5*⍨+/×⍨⍺-⍵}
+
 ⍝ https://problems.tryapl.org/psets/2014.html?goto=P9_Going_Ballistic
 p1409d ← {9.8÷⍨(×⍨⍺)×1○○⍵÷90}
 

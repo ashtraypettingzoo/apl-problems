@@ -30,5 +30,8 @@ p1401d: {(y*y)=+/x*x}
 / https://problems.tryapl.org/psets/2014.html?goto=P3_Tell_a_Fib
 p1403d: {-1_0N#x{x,+/-2#0,x}/1}
 
+/ https://problems.tryapl.org/psets/2014.html?goto=P8_Go_The_Distance
+p1408d: {%+/(x-y)*(x-y)}
+
 / https://problems.tryapl.org/psets/2014.html?goto=P9_Going_Ballistic
 p1409d: {((y*y)*`sin pi*x%90)%9.8}

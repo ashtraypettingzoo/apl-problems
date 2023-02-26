@@ -41,6 +41,10 @@ NB. https://problems.tryapl.org/psets/2014.html?goto=P3_Tell_a_Fib
 p1403d =: {{}:(,+/@(_2&{.))^:y]1}}
 p1403t =: }:@((,+/@(_2&{.))^:(]`1:))
 
+NB. https://problems.tryapl.org/psets/2014.html?goto=P8_Go_The_Distance
+p1408d =: {{%:+/*:x-y}}
+p1408t -: %:@+/@:(*:@-)
+
 NB. https://problems.tryapl.org/psets/2014.html?goto=P9_Going_Ballistic
 p1409d =: {{9.8%~(*:x)*1 o.o.y%90}}
 p1409t =: (%&9.8)@(*:@[*(1&o.)@o.@(%&90)@])

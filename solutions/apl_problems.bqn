@@ -18,3 +18,6 @@ P1307d ← {𝕩/˜𝕩≠⌊𝕩}
 
 # https://problems.tryapl.org/psets/2013.html?goto=P8_Go_Forth_And_Multiply
 P1308d ← {×⌜˜1+↕𝕩}
+
+# https://problems.tryapl.org/psets/2014.html?goto=P1_It_Is_All_Right
+P1401d ← {(𝕩⋆2)=+´𝕨⋆2}

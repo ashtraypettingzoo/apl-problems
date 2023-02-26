@@ -21,3 +21,6 @@ p1307d: {x@&~x=_x}
 
 / https://problems.tryapl.org/psets/2013.html?goto=P8_Go_Forth_And_Multiply
 p1308d: {(1+!x)*/:1+!x}
+
+/ https://problems.tryapl.org/psets/2014.html?goto=P1_It_Is_All_Right
+p1401d: {(y*y)=+/x*x}

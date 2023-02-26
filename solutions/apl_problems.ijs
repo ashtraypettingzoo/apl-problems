@@ -32,3 +32,7 @@ p1308t =: */~@:>:@i.
 NB. https://problems.tryapl.org/psets/2013.html?goto=P10_Solution_Salvation
 p1310d =: {{x%.y}}
 p1310t =: %.
+
+NB. https://problems.tryapl.org/psets/2014.html?goto=P1_It_Is_All_Right
+p1401d =: {{(*~y)=+/*~x}}
+p1401t =: (=+/)~&:(*~)

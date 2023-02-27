@@ -25,8 +25,11 @@ P1401d ← {(𝕩⋆2)=+´𝕨⋆2}
 # https://problems.tryapl.org/psets/2014.html?goto=P3_Tell_a_Fib
 P1403d ← {¯1↓{𝕩∾+´¯2↑𝕩}⍟𝕩 1}
 
+# https://problems.tryapl.org/psets/2014.html?goto=P7_Revolutionary_Thinking
+P1407d ← {𝕩÷˜𝕨•math.LCM𝕩}
+
 # https://problems.tryapl.org/psets/2014.html?goto=P8_Go_The_Distance
-P1403d ← {√+´×˜⥊𝕨-𝕩}
+P1408d ← {√+´×˜⥊𝕨-𝕩}
 
 # https://problems.tryapl.org/psets/2014.html?goto=P9_Going_Ballistic
 P1409d ← {9.8÷˜(×˜𝕨)×•math.Sin π×𝕩÷90}

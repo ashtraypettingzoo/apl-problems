@@ -59,4 +59,8 @@ p1409t =: (%&9.8)@(*:@[*(1&o.)@o.@(%&90)@])
 
 NB. https://problems.tryapl.org/psets/2016.html?goto=P1_Statistics_Mean
 p1601d =: {{(+/y)%#y}}
-p1701t =: +/%#
+p1601t =: +/%#
+
+NB. https://problems.tryapl.org/psets/2016.html?goto=P7_3s_and_5s
+p1607d =: {{y#~+./0=3 5|/y}}
+p1607t =: (#~+./@(0&=)@(3 5&(|/)))

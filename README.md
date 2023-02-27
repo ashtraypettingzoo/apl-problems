@@ -56,7 +56,7 @@ Solutions to https://problems.tryapl.org/ in APL, J, K, &amp; BQN
 | 2016 #04 | :x:                | :x:                | :x:                | :x:                |
 | 2016 #05 | :x:                | :x:                | :x:                | :x:                |
 | 2016 #06 | :x:                | :x:                | :x:                | :x:                |
-| 2016 #07 | :x:                | :x:                | :x:                | :x:                |
+| 2016 #07 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 2016 #08 | :x:                | :x:                | :x:                | :x:                |
 | 2016 #09 | :x:                | :x:                | :x:                | :x:                |
 | 2016 #10 | :x:                | :x:                | :x:                | :x:                |

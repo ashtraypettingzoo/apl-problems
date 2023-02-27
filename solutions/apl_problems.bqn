@@ -36,3 +36,6 @@ P1409d ← {9.8÷˜(×˜𝕨)×•math.Sin π×𝕩÷90}
 
 # https://problems.tryapl.org/psets/2016.html?goto=P1_Statistics_Mean
 P1601d ← {(+˝𝕩)÷1⌈≠𝕩}
+
+# https://problems.tryapl.org/psets/2016.html?goto=P7_3s_and_5s
+P1607d ← {𝕩/˜∨˝0=3‿5|⌜𝕩}

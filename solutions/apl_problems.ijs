@@ -56,3 +56,7 @@ p1408t -: %:@+/@:(*:@-)
 NB. https://problems.tryapl.org/psets/2014.html?goto=P9_Going_Ballistic
 p1409d =: {{9.8%~(*:x)*1 o.o.y%90}}
 p1409t =: (%&9.8)@(*:@[*(1&o.)@o.@(%&90)@])
+
+NB. https://problems.tryapl.org/psets/2016.html?goto=P1_Statistics_Mean
+p1601d =: {{(+/y)%#y}}
+p1701t =: +/%#

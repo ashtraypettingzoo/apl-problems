@@ -50,7 +50,7 @@ Solutions to https://problems.tryapl.org/ in APL, J, K, &amp; BQN
 
 |          | APL                | J                  | K                  | BQN                |
 | ---      | :---:              | :---:              | :---:              | :---:              |
-| 2016 #01 | :x:                | :x:                | :x:                | :x:                |
+| 2016 #01 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 2016 #02 | :x:                | :x:                | :x:                | :x:                |
 | 2016 #03 | :x:                | :x:                | :x:                | :x:                |
 | 2016 #04 | :x:                | :x:                | :x:                | :x:                |

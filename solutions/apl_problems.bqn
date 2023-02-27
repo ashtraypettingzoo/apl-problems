@@ -33,3 +33,6 @@ P1408d ← {√+´×˜⥊𝕨-𝕩}
 
 # https://problems.tryapl.org/psets/2014.html?goto=P9_Going_Ballistic
 P1409d ← {9.8÷˜(×˜𝕨)×•math.Sin π×𝕩÷90}
+
+# https://problems.tryapl.org/psets/2016.html?goto=P1_Statistics_Mean
+P1601d ← {(+˝𝕩)÷1⌈≠𝕩}

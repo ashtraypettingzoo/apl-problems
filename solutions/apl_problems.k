@@ -35,3 +35,6 @@ p1408d: {%+/(x-y)*(x-y)}
 
 / https://problems.tryapl.org/psets/2014.html?goto=P9_Going_Ballistic
 p1409d: {((y*y)*`sin pi*x%90)%9.8}
+
+/ https://problems.tryapl.org/psets/2016.html?goto=P1_Statistics_Mean
+p1601d: {(+/x)%1|#x}

@@ -42,4 +42,7 @@ p1408d ← {.5*⍨+/×⍨⍺-⍵}
 ⍝ https://problems.tryapl.org/psets/2014.html?goto=P9_Going_Ballistic
 p1409d ← {9.8÷⍨(×⍨⍺)×1○○⍵÷90}
 
+⍝ https://problems.tryapl.org/psets/2016.html?goto=P1_Statistics_Mean
+p1601d ← {(+⌿⍵)÷1⌈≢⍤1⍉⍵}
+
 :EndNamespace

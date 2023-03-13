@@ -34,8 +34,17 @@ P1408d ← {√+´×˜⥊𝕨-𝕩}
 # https://problems.tryapl.org/psets/2014.html?goto=P9_Going_Ballistic
 P1409d ← {9.8÷˜(×˜𝕨)×•math.Sin π×𝕩÷90}
 
+# https://problems.tryapl.org/psets/2015.html?goto=P5_Hes_so_mean_he_has_no_standard_deviation
+P1505d ← {√(+´×˜(⊢-(⊑+´÷≢))⥊𝕩)÷≢⥊𝕩}
+
 # https://problems.tryapl.org/psets/2016.html?goto=P1_Statistics_Mean
 P1601d ← {(+˝𝕩)÷1⌈≠𝕩}
 
 # https://problems.tryapl.org/psets/2016.html?goto=P7_3s_and_5s
 P1607d ← {𝕩/˜∨˝0=3‿5|⌜𝕩}
+
+# https://problems.tryapl.org/psets/2017.html?goto=P1_What_an_Odd_Bunch
+P1701d ← {1+2×↕𝕩}
+
+# https://problems.tryapl.org/psets/2017.html?goto=P5_DNA
+P1705d ← {∧´𝕩∊"ACGT"}

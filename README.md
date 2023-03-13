@@ -39,7 +39,7 @@ Solutions to https://problems.tryapl.org/ in APL, J, K, &amp; BQN
 | 2015 #02 | :x:                | :x:                | :x:                | :x:                |
 | 2015 #03 | :x:                | :x:                | :x:                | :x:                |
 | 2015 #04 | :x:                | :x:                | :x:                | :x:                |
-| 2015 #05 | :x:                | :x:                | :x:                | :x:                |
+| 2015 #05 | :heavy_check_mark: | :heavy_check_mark: | :x:                | :heavy_check_mark: |
 | 2015 #06 | :x:                | :x:                | :x:                | :x:                |
 | 2015 #07 | :x:                | :x:                | :x:                | :x:                |
 | 2015 #08 | :x:                | :x:                | :x:                | :x:                |
@@ -65,11 +65,11 @@ Solutions to https://problems.tryapl.org/ in APL, J, K, &amp; BQN
 
 |          | APL                | J                  | K                  | BQN                |
 | ---      | :---:              | :---:              | :---:              | :---:              |
-| 2017 #01 | :x:                | :x:                | :x:                | :x:                |
+| 2017 #01 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 2017 #02 | :x:                | :x:                | :x:                | :x:                |
 | 2017 #03 | :x:                | :x:                | :x:                | :x:                |
 | 2017 #04 | :x:                | :x:                | :x:                | :x:                |
-| 2017 #05 | :x:                | :x:                | :x:                | :x:                |
+| 2017 #05 | :x:                | :heavy_check_mark: | :x:                | :heavy_check_mark: |
 | 2017 #06 | :x:                | :x:                | :x:                | :x:                |
 | 2017 #07 | :x:                | :x:                | :x:                | :x:                |
 | 2017 #08 | :x:                | :x:                | :x:                | :x:                |

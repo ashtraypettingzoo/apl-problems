@@ -41,3 +41,6 @@ p1601d: {(+/x)%1|#x}
 
 / https://problems.tryapl.org/psets/2016.html?goto=P7_3s_and_5s
 p1607d: {{|/0=3 5!\:x}#x}
+
+/ https://problems.tryapl.org/psets/2017.html?goto=P1_What_an_Odd_Bunch
+p1701d: {1+2*!x}

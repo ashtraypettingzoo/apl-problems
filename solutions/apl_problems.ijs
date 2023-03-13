@@ -57,6 +57,10 @@ NB. https://problems.tryapl.org/psets/2014.html?goto=P9_Going_Ballistic
 p1409d =: {{9.8%~(*:x)*1 o.o.y%90}}
 p1409t =: (%&9.8)@(*:@[*(1&o.)@o.@(%&90)@])
 
+NB. https://problems.tryapl.org/psets/2015.html?goto=P5_Hes_so_mean_he_has_no_standard_deviation
+p1505d =: {{%:(+/*:(-+/%#),y)%#,y}}
+p1505t =: %:@(+/@:*:@(-+/%#)%#)@,
+
 NB. https://problems.tryapl.org/psets/2016.html?goto=P1_Statistics_Mean
 p1601d =: {{(+/y)%#y}}
 p1601t =: +/%#
@@ -64,3 +68,11 @@ p1601t =: +/%#
 NB. https://problems.tryapl.org/psets/2016.html?goto=P7_3s_and_5s
 p1607d =: {{y#~+./0=3 5|/y}}
 p1607t =: (#~+./@(0&=)@(3 5&(|/)))
+
+NB. https://problems.tryapl.org/psets/2017.html?goto=P1_What_an_Odd_Bunch
+p1701d =: {{>:+:i.y}}
+p1701t =: >:@+:@i.
+
+NB. https://problems.tryapl.org/psets/2017.html?goto=P5_DNA
+p1705d =: {{-.0 e. y e.'ACGT'}}
+p1705t =: (0-.@e.e.)&'ACGT'
